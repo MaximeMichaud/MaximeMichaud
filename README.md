@@ -2,7 +2,6 @@
 
 I’m a French-Canadian SysAdmin from Quebec
 
-Interested in everything 🚀
 <!--
 **MaximeMichaud/MaximeMichaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
