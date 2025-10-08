@@ -1,6 +1,6 @@
 ### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=maximemichaud&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
-I’m a French-Canadian SysAdmin from Quebec
+I’m a French-Canadian DevOps from Quebec
 
 <!--
 **MaximeMichaud/MaximeMichaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
